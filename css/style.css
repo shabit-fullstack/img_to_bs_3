@@ -1,0 +1,288 @@
+.img-responsive{
+    width: 100% !important;
+}
+.header_margin_top{
+	margin-top: 23px;
+}
+.header_height{
+	min-height: 115px;
+}
+.nav_bg{
+	background-color: #68BFAE;
+	min-height: 64px;
+	margin-top: 31px;
+}
+.navbar_section{
+border: none !important;
+background-color: #68BFAE;
+padding: 5px 209px;
+height: 41px;
+}
+.nav_list{}
+.nav_list ul navbar-nav{}
+.nav_list ul navbar-nav li {}
+.nav_list ul navbar-nav li a {}
+.nav_list ul navbar-nav li a:hover{}
+.form_group input{
+
+}
+
+/*Extracted css*/\
+
+#slider {
+
+}
+
+#carousel-example-generic {
+}
+
+#featured_description {
+	margin-top: 121px;
+}
+
+#most_traded {
+}
+
+#most_read {
+	background: url(../images/wood.jpg);
+	height: 317px;
+	width: 88%;
+	margin: 28px auto;
+	}
+
+#carousel-example-generic {
+}
+
+.example_margin_top{
+	width: 76%;
+margin: 12px auto;
+}
+#our_publishers {
+}
+
+.header_heights {
+}
+
+.container {
+}
+
+.row {
+}
+
+.col-sm-4 {
+}
+
+.logo.header_margin_top {
+}
+
+.col-sm-3.col-sm-offset-5 {
+}
+
+.social_media.header_margin_top {
+}
+
+.list-inline {
+}
+
+.fa.fa-tumblr {
+}
+
+.fa.fa-facebook {
+}
+
+.fa.fa-twitter {
+}
+
+.nav_bg {
+}
+
+.col-sm-12 {
+}
+
+.navbar.navbar-default.navbar_section {
+}
+
+.navbar-header {
+}
+
+.navbar-toggle {
+}
+
+.sr-only {
+}
+
+.icon-bar {
+}
+
+.navbar-brand.visible-xs-block {
+}
+
+.collapse.navbar-collapse.navbar-ex1-collapse.nav_list {
+}
+
+.nav.navbar-nav {
+}
+
+.active {
+}
+
+.navbar-form.navbar-right {
+}
+
+.form-group {
+}
+
+.form-control {
+}
+
+.btn.btn-default {
+}
+
+.slider {
+	height: 300px;;
+}
+
+.carousel-indicators {
+}
+
+.carousel-inner {
+}
+
+.item.active {
+}
+
+.item {
+}
+
+.title {
+color: black;
+margin: 14px 85px;
+}
+
+.col-sm-6 {
+}
+
+.book_image {
+}
+
+.img-responsive {
+}
+
+.col-sm-8 {
+}
+
+.book_content {
+}
+
+.feature_add {
+}
+.feature_bg{
+	background-color: #EAEAEA;
+	margin: 19px auto;
+	width: 89%;
+	padding: -45px;
+	height: 147px;
+}
+}
+
+.button_content {
+}
+
+.btn.btn-info {
+	margin-top: 43px;
+	width: 256px;
+	height: 54px;
+	background-color: #72B6A7;
+}
+
+.col-sm-2 {
+}
+
+.wood_image{
+	margin-top: -5px;
+}
+.single_image {
+}
+
+.plot_image {
+}
+
+.col-sm-2.col-sm-offset-1 {
+}
+
+.left.carousel-control {
+}
+
+.glyphicon.glyphicon-chevron-left {
+}
+
+.right.carousel-control {
+}
+
+.glyphicon.glyphicon-chevron-right {
+}
+
+.more_info {
+}
+
+.btn.btn-info.pull-right {
+}
+
+.more_info.pull-right {
+}
+
+.footer_top {
+	margin-top: 68px;
+	background-color: #272729;
+	min-height: 189px;
+}
+
+.tit_clr{
+	color: white;
+	font-weight: normal;
+}
+.fnt_wt{
+	font-weight: bold;
+}
+.col-sm-3 {
+}
+
+.about_us {
+	margin: 18px -5px;
+	text-align: justify;
+}
+
+.description {
+}
+
+.all_links {
+	margin: 0px 44px;
+}
+.all_links ul{}
+.all_links ul li {
+	list-style: none;
+}
+.all_links ul li a {
+	color: #69BDAE;
+	text-decoration: none;
+}
+.all_links ul li a:hover {
+	color: white;
+}
+.all_links_fu{
+	margin: 10px 88px;
+
+}
+.footer_bottom {
+	background-color: #1F1F21;
+	min-height: 50px;
+}
+
+.copyright {
+	margin: 0 auto;
+}
+.copyyright_part{
+	color: white;
+	padding: 18px 0px;
+	text-align: center;
+}
